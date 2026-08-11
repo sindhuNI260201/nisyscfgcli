@@ -1,10 +1,10 @@
-# NI System Configuration CLI
-**nisyscfgcli** is a prototype CLI tool made to provide basic functionality for NI products for Linux developers. 
-This tool mainly takes advantage of the [nisyscfg](https://github.com/tkrebes/nisyscfg-python) API and the Python [Click](https://click.palletsprojects.com/en/7.x/) pacakge.   
+# ⚠️ Internal NI Project
 
-## Status
-**nisyscfgcli** is created and maintained by National Instruments. 
-It is currently still in production. 
+This repository contains internal project and is not intended for customer use.
 
-## License
-**nisyscfgcli** is licensed under an MIT-style license. Other incorportated projects may be licensed under different licenses. 
+NI does not support, document, or recommend the use of the tools, source code, or interfaces contained in this repository by customers or third-party applications. The contents of this repository may change or be removed without notice 
+
+For supported hardware discovery, configuration, and management workflows, use NI Hardware Manager and refer to the official documentation:
+
+- NI Hardware Manager User Manual: https://www.ni.com/docs/en-US/bundle/hardwaremanager/page/hwcfg-user-manual-welcome.html
+
